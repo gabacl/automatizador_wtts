@@ -1,0 +1,1 @@
+projeto pensado para o envio automatico de mensagens pré-deifinidas, pretendo melhorar esse sistema adicionando um sistema que possibilitará o agendamento da data para o envio de mensagens e também envio de respostas automaticas.
